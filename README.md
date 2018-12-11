@@ -14,15 +14,15 @@ Small tool to change all the {"XXXX"} to "XXXX" in the choose text file. I use i
   7. Invoke method in another python module. Which is remove_curly_brasces.
 
 <curly_braces_remover.py>  
-  8. Open(), readline(), write() and close() to manipulate a text file.  
-  9. Use str.find() to locate the index of the specified character.
-  10. Few basic list operations.
-    10-1. Check not empty
-    10-2. Init an empty list.
-    10-3. Use append() to add a new element.
-    10-4. Use enumerate() to iterate. Which is able to grab index and value
+  1. Open(), readline(), write() and close() to manipulate a text file.
+  2. Use str.find() to locate the index of the specified character.
+  3. Few basic list operations.
+    3-1. Check if is empty
+    3-2. Init an empty list.
+    3-3. Use append() to add a new element.
+    3-4. Use enumerate() to iterate. Which is able to grab index and value
         at the same time.
-  11. Few basic str operations:
-    11-1. Init a empty str.
-    11-2. Copy a partial str with given start_idx and end_idx.
+  4. Few basic str operations:
+    4-1. Init a empty str.
+    4-2. Copy a partial str with given start_idx and end_idx.
    
